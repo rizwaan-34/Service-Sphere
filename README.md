@@ -212,16 +212,6 @@ http://localhost/service-sphere/
 * 📢 Integration with social media & alerts
 
 
-## 👨‍💻 Developed By
-
-**Ravi M Shetty**  
-📍 Bangalore, India  
-💼 Frontend Developer | Python | PHP | Full-Stack Enthusiast  
-🌐 [Portfolio](https://ravishetty-portfolio.netlify.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ravi-m-shetty/)  
-💻 [GitHub](https://github.com/Ravishetty07)  
-📧 ravishetty050822@gmail.com  
-
 
 
 
